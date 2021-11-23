@@ -1,3 +1,5 @@
+Forked this repo to learn from the book: "Building Machine Learning Pipelines" by Hapket & Nelson. Have added my code i.e. jupyter notebooks, to learn the topics.
+
 # Building Machine Learning Pipelines
 
 Code repository for the O'Reilly publication ["Building Machine Learning Pipelines"](http://www.buildingmlpipelines.com) by Hannes Hapke &amp; Catherine Nelson
